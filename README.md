@@ -1,10 +1,19 @@
 ## 👨‍💻 Renan Duarte
-```Engenheiro da Computação``` ```Desenvolvedor Back-End``` 
 
-Meu nome é Renan, tenho 38 anos, sou de Sorocaba-SP. Tenho duas graduações, a minha primeira graduação em Arquitetura e Urbanismo e a segunda em Engenharia da Computação.
-Sou uma pessoa que sempre gostou de estudar, meu foco atual é na área da Computação, tenho curso de Técnico em Hardware e Redes, curso de Banco de Dados intermediário e curso de Python.
-Atualmente estou finalizando um curso de GenAI & Dados e outro de Engenharia de Dados.
-Estou à procura de uma vaga para Engenheiro de Dados, quero migrar para área e ir em busca de novos desafios. Escolhi a área de dados pois é uma área extremamente complexa em que posso estar em constante evolução.
+# Olá, eu sou o Renan! 👋
+
+Engenheiro da Computação e Arquiteto apaixonado por aprendizado contínuo, tecnologia e resolução de problemas complexos. Com uma sólida base analítica e raciocínio lógico estruturado, estou consolidando minha transição de carreira focado na área de **Engenharia de Dados**.
+
+Escolhi o universo dos dados pela sua complexidade e pela oportunidade de estar em constante evolução técnica. Atualmente, estou aprofundando meus conhecimentos na construção de pipelines eficientes, arquitetura de dados e inteligência artificial aplicadas ao negócio.
+
+---
+
+### 🚀 O que estou fazendo no momento:
+- 🎓 Finalizando as formações de **Engenharia de Dados & Machine Learning** e **GenAI & Dados** pela DIO.
+- 🛠️ Desenvolvendo projetos práticos focados em arquitetura de dados, ETL/ELT e automação.
+- 🎯 Em busca da minha primeira oportunidade como **Engenheiro de Dados Júnior**.
+
+---
 
 --- 
 ### 📚💻 Linguagens e Tecnologias
